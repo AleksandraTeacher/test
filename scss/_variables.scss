@@ -1,0 +1,10 @@
+$c-main: #1C8D57;
+$h-Header: 50;
+$font: "Roboto", sans-serif;
+
+
+@mixin square($size, $color) {
+	width: $size + px;
+	height: $size + px;
+	border: 1px solid $color;
+}

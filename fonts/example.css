@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "MyFont";
+	src: url("Roboto-Light.ttf") format("truetype");
+    font-weight: 100;
+}
+
+@font-face {
+	font-family: "MyFont";
+	src: url("Roboto-Regular.ttf") format("truetype");
+    font-weight: 400;   
+}
+
+@font-face {
+	font-family: "MyFont";
+	src: url("Roboto-Thin.ttf") format("truetype");
+    font-weight: 600;   
+}
+
+@font-face {
+	font-family: "MyFont";
+	src: url("DancingScript-Regular.ttf") format("truetype");
+	font-style: italic;
+    font-weight: 600;
+}

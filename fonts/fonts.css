@@ -1,0 +1,17 @@
+@font-face {
+	font-family: "Roboto-Reg";
+	src: local("Roboto"), url("Roboto-Regular.ttf");
+	font-weight: 200;
+}
+
+@font-face {
+	font-family: "Roboto-Bold";
+	src: local("Roboto"), url("Roboto-Bold.ttf");
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: "Dancing";
+	src: local("Dancing Script"), url("DancingScript-Regular.ttf");
+	font-style: italic;
+}
